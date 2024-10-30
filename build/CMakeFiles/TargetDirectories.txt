@@ -1,3 +1,0 @@
-/Users/rashidovfuad/Desktop/Прога++/RSA/RSA_function/rsa_fastest/build/CMakeFiles/rsa_fastest.dir
-/Users/rashidovfuad/Desktop/Прога++/RSA/RSA_function/rsa_fastest/build/CMakeFiles/edit_cache.dir
-/Users/rashidovfuad/Desktop/Прога++/RSA/RSA_function/rsa_fastest/build/CMakeFiles/rebuild_cache.dir

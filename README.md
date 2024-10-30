@@ -13,7 +13,7 @@
 - A C++ compiler (e.g., g++, clang++).
 - A working implementation of the `LargeNumber` class for handling large integers.
 
-## Example
+## Example1
 
 - Enter prime1: 61
 - Enter prime2: 53
@@ -25,5 +25,9 @@
 - 654314150
 - ...
 - Decrypted message: Hello
+
+## Example2
+
+-![](/Users/rashidovfuad/Desktop)
 
 

@@ -28,6 +28,6 @@
 
 ## Example2
 
--![Example2](/Users/rashidovfuad/Desktop/git.png)
+-![Example2](/Users/rashidovfuad/Desktop/Прога++/RSA/RSA_function/rsa_fastest/git.png)
 
 
